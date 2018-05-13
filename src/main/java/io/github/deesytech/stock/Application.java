@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /*@Configuration
 //@EnableAutoConfiguration(exclude = {DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class})
 @EnableAutoConfiguration
-@ComponentScan({"io.github.kingschan1204.istock"})*/
+@ComponentScan({"io.github.deesytech.stock"})*/
 @Controller
 @SpringBootApplication
 public class Application extends SpringBootServletInitializer{
