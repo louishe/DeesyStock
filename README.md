@@ -2,8 +2,6 @@
 
 > 本应用是一个基于Spring boot 实现的股票指数爬虫工具，数据来源于`同花顺`,`新浪财经`,`雪球`,`上交所`,`深交所`
 
-:heavy_exclamation_mark: :point_right: 本项目初衷纯属技术交流，勿作商业用途:heavy_exclamation_mark::bangbang:
-
 ## 实现功能
 
  :ballot_box_with_check: 指数更新
@@ -13,6 +11,16 @@
  :ballot_box_with_check: 市盈率，市净率，ROE ,所属行业
  
  :ballot_box_with_check: 历史数据：市盈率，市净率 ，分红，净资产收益率
+ 
+ ## Pending
+ 1. Get daily history data
+ 2. Support getting break news or stock related news.
+ 3. Support user-defined stocks category.
+ 4. Support email notification (SMS or wechat) notification.
+ 5. Provide trend analysis and suggestion.
+ 6. Support real-time stock analysis and alert.
+ 7. Add real-time chart.
+ 
 
 ## Demo 效果 
 
