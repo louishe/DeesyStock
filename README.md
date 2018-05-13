@@ -28,6 +28,6 @@ Note:
 How to get the token of "雪球":
 1. Open the URL of "雪球" and login on PC using firefox.
 2. Press F12 then click Network tab and find a "雪球" request URL.
-![Alt text](https://github.com/louishe/DeesyStock/tree/master/images/snowball cookie.JPG)
+![Alt text](https://github.com/louishe/DeesyStock/tree/master/images/snowball_cookie.JPG)
 3. Copy the selected cookie, paste it in an editor, like notepad++.
-![Alt text](https://github.com/louishe/DeesyStock/tree/master/images/snowball token.JPG)
+![Alt text](https://github.com/louishe/DeesyStock/tree/master/images/snowball_token.JPG)
